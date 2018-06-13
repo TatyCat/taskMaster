@@ -1,5 +1,7 @@
-## Task Master
+# Task Master
+Created by Tatyanna Cobb
 
-# A Traversy Media Inspired Project  
+## Site can be viewed at https://tatycat.github.io/taskMaster/  
 
-Site can be viewed at https://tatycat.github.io/taskMaster/
+### A Traversy Media Inspired Project  
+
